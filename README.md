@@ -1,7 +1,8 @@
 # MET_05_tagging
 
 ## Overview
-
+This program extends its predecessor [MET_04_templateMatching](https://github.com/if18b189/MET_04_templateMatching).
+In this example a video is being sliced into frames and several templates are being matched.
 
 ## Setup & Installation
 Tested with Python `3.8.8` other versions may or may not work.
